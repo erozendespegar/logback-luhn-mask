@@ -32,9 +32,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:https://github.com/esamson/logback-luhn-mask.git</connection>
-        <developerConnection>scm:git:git@github.com:esamson/logback-luhn-mask.git</developerConnection>
-        <url>https://github.com/esamson/logback-luhn-mask</url>
+        <connection>scm:git@github.com:erozendespegar/logback-luhn-mask.git</connection>
+        <developerConnection>scm:git:git@github.com:erozendespegar/logback-luhn-mask.git</developerConnection>
+        <url>https://github.com/erozendespegar/logback-luhn-mask.git</url>
       <tag>HEAD</tag>
   </scm>
 
